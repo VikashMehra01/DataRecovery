@@ -314,6 +314,7 @@ bool RecoveryEngine::run(std::function<void(QString)> logCallback,
   for (int i = 0; i < SupportedFileCount; i++)
   {
     if (!File_Supported[i])
+
       continue;
     if (File_Count[i] > 0)
     {
