@@ -38,7 +38,7 @@ This project comes **prebuilt**, so you don't need to compile it yourself.
 2. Navigate to the prebuilt binary location:
 
 ```bash
-cd QT-GUI/build/desktop-debug/
+cd QT-GUI/build/Desktop-Debug/
 ````
 
 3. Run the application:
@@ -58,29 +58,17 @@ sudo ./QT-GUI
 ├── QT-GUI/
 │   ├── build/desktop-debug/    # Prebuilt binary lives here
 │   ├── mainwindow.ui
+│   ├── mainwindow.h
+│   ├── mainwindow.cpp
+│   ├── ........
 │  
 ├── RecoveredData/              # Output folder (ignored in Git)
 ├── main.cpp
 ├── recoveryengine.h / .cpp
-├── mp3.h / mp3.cpp
+├── Mp3.h
 ├── README.md
 └── CMakeLists.txt / .pro       # Optional build system files
 ```
-
----
-
-## 🔐 File Types & Signatures
-
-| Format | Signature (Hex)           | Notes               |
-| ------ | ------------------------- | ------------------- |
-| PNG    | `89 50 4E 47 0D 0A 1A 0A` | Standard PNG header |
-| JPEG   | `FF D8 ... FF D9`         | JFIF/Exif support   |
-| MP3    | `FF FB` / `ID3` tag       | Frame-aware parsing |
-| PDF    | `%PDF-`                   | Recover till EOF    |
-| ZIP    | `50 4B 03 04`             | Standard archive    |
-
----
-
 
 ## 🧩 Future Plans
 
