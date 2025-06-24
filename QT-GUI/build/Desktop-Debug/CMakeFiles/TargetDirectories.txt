@@ -1,0 +1,9 @@
+/media/vikashmehra/New Volume/Vikash/DataRecovery/QT-GUI/build/Desktop-Debug/CMakeFiles/QT-GUI.dir
+/media/vikashmehra/New Volume/Vikash/DataRecovery/QT-GUI/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/media/vikashmehra/New Volume/Vikash/DataRecovery/QT-GUI/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/media/vikashmehra/New Volume/Vikash/DataRecovery/QT-GUI/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/media/vikashmehra/New Volume/Vikash/DataRecovery/QT-GUI/build/Desktop-Debug/CMakeFiles/install.dir
+/media/vikashmehra/New Volume/Vikash/DataRecovery/QT-GUI/build/Desktop-Debug/CMakeFiles/install/local.dir
+/media/vikashmehra/New Volume/Vikash/DataRecovery/QT-GUI/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/media/vikashmehra/New Volume/Vikash/DataRecovery/QT-GUI/build/Desktop-Debug/CMakeFiles/QT-GUI_autogen_timestamp_deps.dir
+/media/vikashmehra/New Volume/Vikash/DataRecovery/QT-GUI/build/Desktop-Debug/CMakeFiles/QT-GUI_autogen.dir
